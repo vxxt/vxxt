@@ -4,7 +4,7 @@ my name is viet. i studied computer science at the university of utah. i am a so
 
 aside from programming, i enjoy reading, skateboarding, sewing and upcycling vintage and luxury clothing.
 
-## 🔧 tech & tool
+## 🔧 tech & tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
