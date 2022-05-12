@@ -23,3 +23,4 @@ aside from programming, i enjoy reading, skateboarding, sewing and upcycling vin
 ![](https://img.shields.io/badge/Tools-Adobe_Premiere_Pro-informational?style=flat&logo=adobepremierepro&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-LaTeX-informational?style=flat&logo=latex&logoColor=white&color=2bbc8a)
